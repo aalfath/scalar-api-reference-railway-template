@@ -1,4 +1,4 @@
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/scalar-api-reference-1?utm_medium=integration&utm_source=button&utm_campaign=scalar-api-reference)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/scalar-api-referen-1?utm_medium=integration&utm_source=button&utm_campaign=scalar-api-reference)
 
 # Scalar API Reference on Railway
 
